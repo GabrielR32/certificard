@@ -72,16 +72,16 @@ body {
   background: linear-gradient(236.85deg, #375b86 27.26%, #6b87a9 96.03%);
 }
 
-.dark.container {
+.dark .container {
   background: #333439;
   color: #f6f6f6;
 }
 
-.dark.projetos {
+.dark .projetos {
   color: 1c1c1c;
 }
 
-.dark.tema button {
+.dark .tema button {
   color: #ffffff;
   background: #1c1c1c;
   box-sizing: border-box;
